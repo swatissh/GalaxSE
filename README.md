@@ -9,9 +9,9 @@ Our product aims to gamify and socialize teaching and learning. An in-depth proj
 
 ## Contributors
 
-* Swathi Kumar Vembu
-* Nishka KHENDRY
-* Aditya Chandrasekhar
+* SWATHI KUMAR VEMBU
+* NISHKA KHENDRY
+* ADITYA CHANDRASEKHAR
 * TEO WEE REN
 * TAN YI HENG
 * SWATI SURESH
