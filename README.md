@@ -5,7 +5,7 @@ CZ3003 - Software System Analysis &amp; Design
 
 To Infinity and Beyond...
 
-Our product aims to gamify and socialize teaching and learning. An in-depth project description and software requirements specifications can be found: https://github.com/Aditya239233/GalaxSE/tree/main/docs
+Our product aims to gamify and socialize teaching and learning. An in-depth project description and software requirements specifications can be found: [here](https://github.com/Aditya239233/GalaxSE/tree/main/docs)
 
 ## Contributors
 
